@@ -12,7 +12,7 @@ public class Main extends Application {
 
         Application.launch();
     }
-empty line
+
     @Override
     public void start(Stage primaryStage) throws Exception {
         FXMLLoader loader = new FXMLLoader(getClass().getResource("/MainWindow.fxml"));
